@@ -1,0 +1,2 @@
+Warning (10273): Verilog HDL warning at next_state_mul.v(58): extended using "x" or "z" File: C:/altera_lite/15.1/VL/multiplier/next_state_mul.v Line: 58
+Warning (10273): Verilog HDL warning at add_logic.v(43): extended using "x" or "z" File: C:/altera_lite/15.1/VL/multiplier/add_logic.v Line: 43
